@@ -1,0 +1,10 @@
+crewai
+crewai_tools
+duckduckgo-search
+beautifulsoup4
+requests
+python-dotenv
+openai
+unstructured
+lxml
+PyPDF2 # For potential PDF report generation
